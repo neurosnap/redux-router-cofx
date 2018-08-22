@@ -1,4 +1,6 @@
-# redux-router-cofx
+# redux-router-cofx [![Build Status](https://travis-ci.org/neurosnap/redux-router-cofx.svg?branch=master)](https://travis-ci.org/neurosnap/redux-router-cofx)
+
+Activate side-effects when location changes in `connected-react-router`
 
 ```js
 import { createStore, applyMiddleware, compose } from 'redux';
