@@ -13,7 +13,9 @@
     "precommit": "lint-staged"
   },
   "peerDependencies": {
-    "connected-react-router": "^4.4.1",
+    "connected-react-router": "^4.4.1"
+  },
+  "dependencies": {
     "redux-cofx": "^1.1.3"
   },
   "devDependencies": {
