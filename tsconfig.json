@@ -19,6 +19,6 @@
     "node_modules"
   ],
   "include": [
-    "index.ts",
+    "index.ts"
   ]
 }
