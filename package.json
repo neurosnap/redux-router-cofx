@@ -1,7 +1,7 @@
 {
   "name": "redux-router-cofx",
   "description": "activate side-effects when location changes in connected-react-router",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "license": "MIT",
