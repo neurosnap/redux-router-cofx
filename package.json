@@ -8,7 +8,7 @@
   "author": "Eric Bower",
   "repository": {
     "type": "git",
-    "url": "git://github.com/neurosnap/redux-cofx.git"
+    "url": "git://github.com/neurosnap/redux-router-cofx.git"
   },
   "scripts": {
     "build": "tsc",
