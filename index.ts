@@ -82,7 +82,7 @@ export default <S>(routerMap: RouterMap) => {
       store.dispatch(locationChange(location));
     }
 
-    next(action);
+    return next(action);
   };
 
   return {
